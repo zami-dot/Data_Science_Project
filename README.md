@@ -6,9 +6,13 @@ The minute fluctuations in gold prices can have significant implications, leadin
 <br>**Business Goals and Limitations**
 <br>•	Precisely forecast the future adjusted closing price of Gold ETF (Exchange Traded Funds) for a specified future timeframe.
 <br>•	Ensure that the prediction model operates with minimal delay to address latency concerns.
+<br> **Language Used: Python**
+<br> **Tool Used: Google Colab**
 <br> **Model Used: ARIMA**
 <br> *DataSet: https://www.kaggle.com/datasets/sid321axn/gold-price-prediction-dataset*
 <br> Conclusion: Accurate results.
+<br>
+![Capture](https://github.com/zami-dot/Data_Science_Project/assets/80031450/8e570565-7cd1-4ee5-963f-341cf7dc336c)
 
 
 
